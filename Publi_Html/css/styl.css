@@ -1,0 +1,41 @@
+.CircleImageSmall{
+	border-radius: 50%;
+	border-width: 0.7em;
+	border-style: groove;
+	
+	margin: 10px 20px 10px 20px;
+	border-color: #ff9923;
+
+	
+
+
+}
+.title-screen{
+	margin-top: 60px;
+	background-color: #222;
+	text-align: center;
+	padding: 5px 10px 50px 10px;
+	
+	
+}
+.body-container{
+	background-color: #0F0F0F;
+}
+footer div {
+	background-color: #222;
+	padding: 10px 0 10px 0;
+	text-align: center;
+	margin: 3px auto 0 auto;
+	color: #999;	
+	
+}
+footer{
+	margin-top: 50px;
+
+}
+section{
+	background-color: rgba(250,203,0,0.8);
+	margin: 5px 0px 5px 0px;
+	width:  70%;
+}
+
